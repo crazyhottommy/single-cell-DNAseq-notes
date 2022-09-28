@@ -1,7 +1,9 @@
 # single-cell-DNAseq-notes
 
-, it has its own challenges including elevated error rates, allelic drop-out, and uneven coverage
-Analysis of single cell DNA sequencing data remains challenging due to bias and artifacts that arise during DNA extraction and whole-genome amplification, including allelic imbalance and dropout
+Single-cell DNAseq has its own challenges including elevated error rates, allelic drop-out, and uneven coverage.
+Analysis of single cell DNA sequencing data remains challenging due to bias and artifacts that arise during DNA extraction and whole-genome amplification, including allelic imbalance and dropout.
+
+>in the human genome a genes copy number may fluctuate in **cancer cells** that have lost the ability to correct errors. In some instances all chromosomes are duplicated to produce tetraploids which may appear to be diploid unless you provide a read reference.
 
 Sequencing libraries suitable for genotyping require whole genome amplification, which introduces allelic bias and copy errors.
 
